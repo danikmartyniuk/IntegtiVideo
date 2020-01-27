@@ -1,0 +1,8 @@
+<suite name="Test-class Suite" parallel="classes" thread-count="2" >
+    <test name="Test-class test" >
+        <classes>
+            <class name="test.java.Calculator.DivideTest" />
+            <class name="test.java.Calculator.MultiplTest" />
+        </classes>
+    </test>
+</suite>
